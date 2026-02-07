@@ -110,14 +110,19 @@ Create a shortcut to sticky_todo.exe in the Startup folder
 
 The application will now launch automatically on system startup.
 
-###Use Cases
+
+---
+
+
+## Use Cases
 Daily task reminders
 Lightweight personal productivity tool
 Desktop widget reference implementation
 Python GUI application showcase
 
+--
 
-###Skills Demonstrated
+## Skills Demonstrated
 Desktop application development
 GUI design with PyQt5
 Persistent state management
