@@ -110,3 +110,6 @@ Create a shortcut to sticky_todo.exe in the Startup folder
 
 The application will now launch automatically on system startup.
 
+##Screenshot
+<img width="455" height="497" alt="image" src="https://github.com/user-attachments/assets/e9762e98-4b03-412f-ab9a-f87e97fd8659" />
+
